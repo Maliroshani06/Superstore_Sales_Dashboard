@@ -28,4 +28,5 @@ Power BI
 CSV Data (Excel-Formatted)
 Data Modeling and DAX (Basic)
 
+<img width="1536" height="867" alt="SuperStore Sales Dashboard" src="https://github.com/user-attachments/assets/aa481792-7ce6-4c2e-a96c-ff7734d2a243" />
 
